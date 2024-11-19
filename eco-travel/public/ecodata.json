@@ -1,0 +1,232 @@
+[
+    {
+        "AdventureTitle": "Mountain River Rafting",
+        "Image": "https://lh5.googleusercontent.com/p/AF1QipM36tkWlGt-LtQBOAmf85_VMkUOygn3O7yRmczp=w540-h312-n-k-no",
+        "ID": 1,
+        "CategoryName": "Water Adventure",
+        "ShortDescription": "Experience thrilling rapids while exploring pristine mountain rivers.",
+        "AdventureCost": 120,
+        "BookingAvailability": "Available",
+        "Location": "Rocky Mountains, USA",
+        "Duration": "5 hours",
+        "AdventureLevel": "Intermediate",
+        "IncludedItems": [
+            "Life Jacket",
+            "Helmet",
+            "Paddle",
+            "Guide"
+        ],
+        "EcoFriendlyFeatures": [
+            "No single-use plastics",
+            "Use of eco-friendly transportation",
+            "Minimal impact on natural environment"
+        ],
+        "MaxGroupSize": 8,
+        "SpecialInstructions": [
+            "Participants must know basic swimming.",
+            "Wear quick-drying clothes.",
+            "Bring sunscreen and water bottles."
+        ]
+    },
+    {
+        "AdventureTitle": "Jungle Canopy Walk",
+        "Image": "https://i.ibb.co.com/R7hW4BP/Redwoods-Night-New-Zealand.jpg",
+        "ID": 2,
+        "CategoryName": "Nature Exploration",
+        "ShortDescription": "Walk through the treetops and witness exotic wildlife in its natural habitat.",
+        "AdventureCost": 80,
+        "BookingAvailability": "Available",
+        "Location": "Amazon Rainforest, Brazil",
+        "Duration": "3 hours",
+        "AdventureLevel": "Beginner",
+        "IncludedItems": [
+            "Safety harness",
+            "Local guide",
+            "Binoculars"
+        ],
+        "EcoFriendlyFeatures": [
+            "Support for local conservation efforts",
+            "Solar-powered facilities",
+            "Educational environmental workshops"
+        ],
+        "MaxGroupSize": 12,
+        "SpecialInstructions": [
+            "Wear comfortable shoes.",
+            "No loud noises to avoid disturbing wildlife.",
+            "Carry a reusable water bottle."
+        ]
+    },
+    {
+        "AdventureTitle": "Desert Night Safari",
+        "Image": "https://i.ibb.co.com/ByYYK7h/dino-reichmuth-A5r-CN8626-Ck-unsplash.jpg",
+        "ID": 3,
+        "CategoryName": "Wildlife Adventure",
+        "ShortDescription": "Discover nocturnal wildlife in a guided safari through the desert.",
+        "AdventureCost": 150,
+        "BookingAvailability": "Limited",
+        "Location": "Sahara Desert, Morocco",
+        "Duration": "7 hours",
+        "AdventureLevel": "Advanced",
+        "IncludedItems": [
+            "Night vision binoculars",
+            "4x4 vehicle ride",
+            "Guide",
+            "Dinner under the stars"
+        ],
+        "EcoFriendlyFeatures": [
+            "Electric-powered safari vehicles",
+            "Sustainable food options",
+            "Waste management and recycling"
+        ],
+        "MaxGroupSize": 6,
+        "SpecialInstructions": [
+            "Carry warm clothing for the chilly desert night.",
+            "Avoid using bright lights to minimize disturbance.",
+            "Be prepared for rough terrain."
+        ]
+    },
+    {
+        "AdventureTitle": "Volcano Trekking",
+        "Image": "https://i.ibb.co.com/2Sdsrpf/Etna-Sicily-Italy-VISITCANOS0418-2bb7ef6dc5fc4828a27c5d878f4cb99a.webp",
+        "ID": 4,
+        "CategoryName": "Hiking Adventure",
+        "ShortDescription": "Hike up an active volcano and marvel at stunning lava flows.",
+        "AdventureCost": 200,
+        "BookingAvailability": "Available",
+        "Location": "Mount Etna, Italy",
+        "Duration": "8 hours",
+        "AdventureLevel": "Advanced",
+        "IncludedItems": [
+            "Trekking poles",
+            "Helmet",
+            "Guide",
+            "Snacks and water"
+        ],
+        "EcoFriendlyFeatures": [
+            "Recycling stations at base camp",
+            "Eco-friendly trekking gear",
+            "Leave-no-trace principles"
+        ],
+        "MaxGroupSize": 10,
+        "SpecialInstructions": [
+            "Wear sturdy hiking boots.",
+            "Be prepared for high altitudes.",
+            "Follow the guide's instructions for safety."
+        ]
+    },
+    {
+        "AdventureTitle": "Coral Reef Snorkeling",
+        "Image": "https://i.ibb.co.com/K5DLZ33/csm-fitzroy-island-sundancer-rainforest-0e9cdf5727.jpg",
+        "ID": 5,
+        "CategoryName": "Water Adventure",
+        "ShortDescription": "Explore vibrant coral reefs and marine life in crystal-clear waters.",
+        "AdventureCost": 100,
+        "BookingAvailability": "Available",
+        "Location": "Great Barrier Reef, Australia",
+        "Duration": "4 hours",
+        "AdventureLevel": "Intermediate",
+        "IncludedItems": [
+            "Snorkel gear",
+            "Life jacket",
+            "Guide",
+            "Underwater camera"
+        ],
+        "EcoFriendlyFeatures": [
+            "Eco-friendly snorkeling gear",
+            "Marine life conservation awareness",
+            "Eco-certified tour operator"
+        ],
+        "MaxGroupSize": 15,
+        "SpecialInstructions": [
+            "Avoid touching the coral or marine life.",
+            "Use reef-safe sunscreen.",
+            "Bring a reusable water bottle."
+        ]
+    },
+    {
+        "AdventureTitle": "Snowshoeing Expedition",
+        "Image": "https://i.ibb.co.com/9qX7FZP/istockphoto-915372004-612x612.jpg",
+        "ID": 6,
+        "CategoryName": "Winter Adventure",
+        "ShortDescription": "Traverse snowy landscapes on an eco-friendly snowshoeing tour.",
+        "AdventureCost": 90,
+        "BookingAvailability": "Available",
+        "Location": "Swiss Alps, Switzerland",
+        "Duration": "6 hours",
+        "AdventureLevel": "Beginner",
+        "IncludedItems": [
+            "Snowshoes",
+            "Poles",
+            "Guide",
+            "Hot beverages"
+        ],
+        "EcoFriendlyFeatures": [
+            "Eco-friendly trail maintenance",
+            "Sustainable accommodations",
+            "Reusable equipment"
+        ],
+        "MaxGroupSize": 8,
+        "SpecialInstructions": [
+            "Wear warm, waterproof clothing.",
+            "Bring extra gloves and socks.",
+            "Stay on marked trails."
+        ]
+    },
+    {
+        "AdventureTitle": "Cave Exploration",
+        "Image": "https://i.ibb.co.com/VgPPypr/images.jpghttps://i.ibb.co.com/VgPPypr/images.jpg",
+        "ID": 7,
+        "CategoryName": "Underground Adventure",
+        "ShortDescription": "Discover the beauty of underground caves with guided exploration.",
+        "AdventureCost": 110,
+        "BookingAvailability": "Available",
+        "Location": "Carlsbad Caverns, USA",
+        "Duration": "4 hours",
+        "AdventureLevel": "Intermediate",
+        "IncludedItems": [
+            "Helmet with headlamp",
+            "Gloves",
+            "Guide"
+        ],
+        "EcoFriendlyFeatures": [
+            "Strict no-littering policy",
+            "Eco-education about cave ecosystems",
+            "Minimal disturbance exploration"
+        ],
+        "MaxGroupSize": 10,
+        "SpecialInstructions": [
+            "Wear non-slip shoes.",
+            "Avoid touching stalactites and stalagmites.",
+            "Bring a small backpack for essentials."
+        ]
+    },
+    {
+        "AdventureTitle": "Forest Meditation Retreat",
+        "Image": "https://i.ibb.co.com/Sdk9zXB/forest-meditation-retreat-stockcake.jpg",
+        "ID": 8,
+        "CategoryName": "Wellness Adventure",
+        "ShortDescription": "Unwind with guided meditation and yoga in a serene forest setting.",
+        "AdventureCost": 70,
+        "BookingAvailability": "Available",
+        "Location": "Black Forest, Germany",
+        "Duration": "3 hours",
+        "AdventureLevel": "Beginner",
+        "IncludedItems": [
+            "Yoga mat",
+            "Meditation guide",
+            "Herbal tea"
+        ],
+        "EcoFriendlyFeatures": [
+            "Organic, locally sourced refreshments",
+            "No disposable materials used",
+            "Support for reforestation projects"
+        ],
+        "MaxGroupSize": 15,
+        "SpecialInstructions": [
+            "Wear comfortable, breathable clothing.",
+            "Bring a water bottle.",
+            "Avoid using mobile devices during the retreat."
+        ]
+    }
+    
+]
