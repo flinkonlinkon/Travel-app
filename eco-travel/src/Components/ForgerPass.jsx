@@ -9,12 +9,12 @@ export default function ForgerPass() {
         let email = e.target.email.value
 
         forgetPass(email).then(()=>{
-            console.log('ok')
+           
             
         }).catch((error) => {
             const errorCode = error.code;
             const errorMessage = error.message;
-            console.log(errorMessage)
+         
             
           })
 

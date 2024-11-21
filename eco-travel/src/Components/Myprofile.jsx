@@ -4,7 +4,7 @@ import Navbar from './Navbar'
 
 export default function Myprofile() {
   let {user} = useContext(Apicon)
-  console.log(user);
+
   
   return (
     <>

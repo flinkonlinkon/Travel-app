@@ -4,7 +4,7 @@ import { Apicon } from './ContextPro'
 export default function Details() {
     let {arrData,setArrData,handaleClick,setOlddata,oldData} = useContext(Apicon)
     const {AdventureTitle,Image,ID,CategoryName,ShortDescription,AdventureCost,BookingAvailability,Location,Duration,AdventureLevel,IncludedItems,EcoFriendlyFeatures,MaxGroupSize,SpecialInstructions} = oldData || {};
-    console.log(AdventureTitle);
+    
     
   return (
     <div className='w-11/12 mx-auto mt-3 mb-3 shadow-lg'>

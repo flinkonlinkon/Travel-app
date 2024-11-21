@@ -33,10 +33,10 @@ export default function ContextPro({children}) {
         let oldDataAll = passData
         // let newArr = [...arrData, passData]
         // setArrData(newArr)
-        console.log(oldDataAll);
+        
         
        setOlddata(oldDataAll)
-       console.log(oldData);
+     
        
       
     }
