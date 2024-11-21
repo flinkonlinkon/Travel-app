@@ -9,11 +9,11 @@ export default function Myprofile() {
   return (
     <>
     <Navbar></Navbar>
-    <div>
+    <div className='m-auto flex flex-col justify-center items-center'>
       <div><img src={user.img} alt="" /></div>
       <p className='text-xl  font-bold font-custom'>Name:{user.displayName}</p>
       <p className='text-xl  font-bold font-custom'>Email:{user.email}</p>
-      <p className='text-xl  font-bold font-custom'>Email Verify: {user.emailVerified ? 'not verify' : "verify"}</p>
+      <p className='text-xl  font-bold font-custom'>Email Verify: {user.emailVerified ? 'verify' : "not verify"}</p>
 
     </div>
 
