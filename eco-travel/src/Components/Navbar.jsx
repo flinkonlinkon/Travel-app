@@ -69,7 +69,7 @@ export default function Navbar() {
 </div>
 <div className="avatar">
   <div className="w-24 rounded-full">
-    <img className={``} src={user? user.photoURL : 'https://i.ibb.co.com/6ZH9wxD/3551911.jpg'} />
+    <img title={user.displayName} src={user? user.photoURL : 'https://i.ibb.co.com/6ZH9wxD/3551911.jpg'} />
   </div>
 </div>
   </div>

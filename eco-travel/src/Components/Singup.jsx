@@ -18,13 +18,11 @@ export default function Singup() {
     
     singUp(email,password).then(x => {
       setUser(x.user)
+      updatePro(email,password)
       navigate('/')
     })
     
-    updatePro({displayName:name,photoURL:photo}).then(()=>{
-      console.log('all ok')
-      
-    })
+    
 
     
     

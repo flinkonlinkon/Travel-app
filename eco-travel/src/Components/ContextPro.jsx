@@ -81,9 +81,15 @@ setLoading(true)
         })
     }
 
-    function updatePro(upDate){
-        return updateProfile(auth.currentUser ,upDate)
+    
+
+
+    function updatePro(name,photo){
+       updateProfile(auth.currentUser ,{
+        displayName:name,photoURL:photo
+       }).then(()=>{})
     }
+
     function forgetPass(email){
         return sendPasswordResetEmail(auth,email)
 
